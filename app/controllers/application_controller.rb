@@ -1,5 +1,6 @@
 class ApplicationController < ActionController::Base
     helper_method :current_user, :logged_in?
+    before_action :category_all
 
   def current_user
     @current_user ||= User.find(session[:user_id]) if session[:user_id]
@@ -14,5 +15,9 @@ class ApplicationController < ActionController::Base
       flash[:alert] = "You must be logged in to perform that action"
       redirect_to login_path
     end
+  end
+
+    def category_all
+    @categories = Category.all
   end
 end
