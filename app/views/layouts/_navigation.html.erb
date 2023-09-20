@@ -39,7 +39,7 @@
           </li>
           <% if logged_in? %>
             <li class="nav-item">
-             <%= link_to 'Logout', logout_path, class: "nav-link", method: :delete %>
+             <%= button_to 'Logout', logout_path, class: "nav-link", method: :delete %>
             </li>
           <% end %>
           
