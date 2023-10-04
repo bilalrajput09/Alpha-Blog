@@ -1,9 +1,10 @@
 databases:
-  - name: postgres
+  - name: alpha_blog
     ipAllowList: []
     databaseName: alpha_blog_render
     plan: free
     user: alpha_blog_render
+    plan: free
 
 services:
   - type: web
