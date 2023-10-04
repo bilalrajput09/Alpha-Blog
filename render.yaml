@@ -1,5 +1,5 @@
 databases:
-  - name: postgres
+  - name: alpha_blog
     ipAllowList: []
     databaseName: alpha_blog_render
     user: alpha_blog_render
