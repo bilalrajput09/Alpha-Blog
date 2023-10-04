@@ -1,5 +1,5 @@
 databases:
-  - name: postgres
+  - name: postgres_alpha_blog
     ipAllowList: []
     databaseName: alpha_blog_render
     plan: free
