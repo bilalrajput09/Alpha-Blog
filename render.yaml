@@ -2,11 +2,13 @@ databases:
   - name: postgres
     ipAllowList: []
     databaseName: alpha_blog_render
+    plan: free
     user: alpha_blog_render
 
 services:
   - type: web
     name: alpha_blog
+    plan: free
     env: ruby
     buildCommand: './render-build.sh'
     startCommand: 'bundle exec rails s'
