@@ -113,6 +113,7 @@ To run tests, run the following command:
 ## Future Features <a name="future-features"></a>
 
 - [ ] **[Alpha-Blog Specs ]**
+- [ ] **[Alpha-Blog Social media ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
