@@ -27,7 +27,7 @@
 
 # [Alpha Blog] <a name="about-project"></a>
 
-**[Alpha Blog]** Alpha blog is a blog application, crafted with precision using the latest Rails 7 framework. Seamlessly designed for a user-friendly experience, our app allows users to effortlessly sign up and log in, granting access to a world of creative possibilities. With the power of CRUD actions at your fingertips, you can effortlessly create, read, update, and delete articles, shaping your digital space exactly as you envision it. Not only can you share your thoughts and stories, but you can also explore the rich tapestry of articles from fellow users, fostering a vibrant community of diverse voices and ideas. Join us in the journey of self-expression and discovery, where your stories find a home and your creativity knows no bounds. Welcome to the future of blogging, and welcome to our Rails 7-powered blog application.
+**[Alpha Blog]** Alpha blog is a blog application, crafted with precision using the latest Rails 7 framework. Seamlessly designed for a user-friendly experience, our app allows users to effortlessly sign up and log in, granting access to a world of creative possibilities. With the power of CRUD actions at your fingertips, you can effortlessly create, read, update, and delete articles, shaping your digital space exactly as you envision it. Not only can you share your thoughts and stories, but you can also explore the rich tapestry of articles from fellow users, fostering a vibrant community of diverse voices and ideas. Join us in the journey of self-expression and discovery, where your stories find a home and your creativity knows no bounds. Welcome to the future of blogging, and welcome to our Rails 7 powered blog application.
 
 ## Built With <a name="built-with"></a>
 
